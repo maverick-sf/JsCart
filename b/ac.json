@@ -1,0 +1,37 @@
+[{
+    "Id": "01",
+    "Name": "Banana",
+    "Quantity": 10,
+    "ImageUrl": "https://www.collinsdictionary.com/images/full/banana_64728013.jpg",
+    "Price": 60
+    
+}, {
+    "Id": "02",
+    "Name": "Kiwi",
+    "Quantity": 20,
+    "ImageUrl": "https://cdn.britannica.com/45/126445-004-90305E10/Kiwi-fruit.jpg",
+    "Price": 200
+},
+{   "Id": "03",
+    "Name": "Strawberry",
+    "Quantity": 10,
+    "ImageUrl": "https://thumbs.dreamstime.com/b/fresh-strawberry-white-background-40742985.jpg",
+    "Price": 50
+},
+{
+    "Id": "04",
+    "Name": "Watermelon",
+    "Quantity": 10,
+    "ImageUrl": "https://thumbs.dreamstime.com/b/sliced-watermelon-25612609.jpg",
+    "Price": 60
+},
+{
+    "Id": "05",
+    "Name": "Mango",
+    "Quantity": 10,
+    "ImageUrl": "https://img.freepik.com/free-photo/ripe-mango-with-green-leaf-isolated-white_252965-183.jpg?w=2000",
+    "Price": 60
+}
+
+
+]
